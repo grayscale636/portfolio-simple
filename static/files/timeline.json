@@ -1,0 +1,37 @@
+[
+  {
+    "year": "2018",
+    "events": [
+      {
+        "icon": "school",
+        "title": "SMAN 1 Tulungagung",
+        "content": "I studied in a normal school, and i enjoyed every day in my school, playing game, sports, study, all of them always i do in my senior highschool days"
+      }
+    ]
+  },
+  {
+    "year": "2021-2025",
+    "events": [
+      {
+        "icon": "school",
+        "title": "Telkom Institute of Technology Purwokerto",
+        "content": "In this my college live, i get a new experience of living, firstly i live alone in my dorm, iivery day i living and start enjoying my live. Today im 19 years old and 3rd semester in my college, i hope i passed my college on time, and struggling to find the real way of life"
+      },
+      {
+        "icon": "school",
+        "title": "Graduate From College",
+        "content": "I starting learn how to do job in profesional scene, i'll meet a great people and learn from all of them"
+      }
+    ]
+  },
+  {
+    "year": "2026",
+    "events": [
+      {
+        "icon": "work",
+        "title": "My Work Day",
+        "content": "I started my carrier become a junior data engineer in one company in jakarta, i enjoyed my life there, although the cost of living is very expensive, I try to save so that my salary is enough for one month"
+      }
+    ]
+  }
+]
